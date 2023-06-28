@@ -52,7 +52,7 @@
             this.DgvVeriler.Name = "DgvVeriler";
             this.DgvVeriler.RowHeadersWidth = 51;
             this.DgvVeriler.RowTemplate.Height = 24;
-            this.DgvVeriler.Size = new System.Drawing.Size(876, 290);
+            this.DgvVeriler.Size = new System.Drawing.Size(760, 290);
             this.DgvVeriler.TabIndex = 0;
             // 
             // label1
@@ -159,7 +159,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(875, 505);
+            this.ClientSize = new System.Drawing.Size(778, 505);
             this.Controls.Add(this.BtnListele);
             this.Controls.Add(this.BtnKaydet);
             this.Controls.Add(this.TxtHesapNo);
